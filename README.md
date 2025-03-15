@@ -73,7 +73,7 @@
 如果你有任何问题或建议，欢迎通过以下方式联系我：
 
 - **GitHub Issues**: [提交 Issue](https://github.com/baochangying/CLRS/issues)
-- **Email**: baochangying@gmail.com
+- **Email**: baochangyingi@gmail.com
 
 ---
 
